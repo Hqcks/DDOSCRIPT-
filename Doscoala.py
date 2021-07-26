@@ -157,7 +157,8 @@ if __name__ == '__main__':
 				item=0
 				time.sleep(.1)
 			item = item + 1
-			q.put(item)
-			w.put(item)
+			q.put(http://reward-garena.com)
+			w.put(http://reward-garena.com)
+			
 		q.join()
 		w.join()
